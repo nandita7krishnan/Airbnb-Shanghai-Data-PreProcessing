@@ -22,5 +22,5 @@ Process
 6. Model complexity was reduced by dimensionality reduction using Principal Component Analysis.
 
 ----
-Refer to white paper for details and screenshots.
+Note: Refer to white paper for details and screenshots.
 
