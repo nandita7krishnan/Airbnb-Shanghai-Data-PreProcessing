@@ -2,7 +2,7 @@
 
 Aim 
 --
-Aim of the project is to prepare/clean the dataset for modelling purposes with “review_scores_rating” as the target variable.
+Aim of the project is to prepare/clean the dataset for modelling purposes with “review_scores_rating” as the target variable. JMP is the software used for this purpose
 
 
 
